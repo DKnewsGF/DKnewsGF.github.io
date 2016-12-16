@@ -1,0 +1,45 @@
+.fondo {
+ background: #263238;
+ background-size: cover;
+  background-position: left;
+  height: 400px;
+  width: 
+
+}
+
+
+
+.jessi {
+	vertical-align: center;
+}
+ 
+
+.fon {
+ background-image: url("1.png");
+ background-size: cover;
+ background-position: center;
+ height: 315px;
+}
+
+.con  {
+ background-image: url("4.png");
+ background-size: cover;
+  background-position: center;
+}
+
+.son  {
+ background-image: url("3.png");
+ background-size: cover;
+  background-position: center;
+}
+
+.left {
+	text-align: center;
+	position: relative;
+	width: 100%;
+	top: 1px;
+}
+
+.hola {
+	background: orange;
+}
